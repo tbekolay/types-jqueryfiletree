@@ -1,0 +1,9 @@
+{
+  "name": "jqueryfiletree",
+  "main": "src/filetree.d.ts",
+  "homepage": "https://github.com/jqueryfiletree/jqueryfiletree",
+  "version": "^2.1.4",
+  "globalDependencies": {
+    "jquery": "registry:dt/jquery#1.10.0+20160704162008"
+  }
+}
